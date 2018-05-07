@@ -2,13 +2,15 @@ There are codes I wrote when I learning Maching Learning at [coursera.org](https
 
 And I will put my notes wrote with markdown
 
+[TOC]
+
 ### Files
 #### Tutorial
  - [Lecture5.pdf](/Lecture/Lecture5.pdf)
  - [00 Introduction.md](/Notes/00%20Introduction.md)
 
 #### Linear regression
- - [Exercise](/Codes/machine-learning-ex1/)
+ - [Exercise-1](/Codes/machine-learning-ex1/)
  - [Lecture1.pdf](/Lecture/Lecture1.pdf)
  - [Lecture2.pdf](/Lecture/Lecture2.pdf)
  - [Lecture3.pdf](/Lecture/Lecture3.pdf)
