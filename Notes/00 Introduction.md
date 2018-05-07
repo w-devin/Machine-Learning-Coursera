@@ -1,14 +1,14 @@
-###Machine Learning definition
+### Machine Learning definition
 - Arthur Samuel(1959). Machine Learning: Field of study that gives computers the ability to learn without being explicitly programmed.
 - Tom Mitchell(1998). A computer program is said to learn from experience E(experience) with respect to some task T(task) and some performance measure P, if its performance on T, as measured by  P(probability), improves with experience E.
 
-###Machine learning algorithms:
+### Machine learning algorithms:
 
-####Supervised learning
+#### Supervised learning
 - Regression Problem
 - Classification Problem
 
-####Unsupervised learning
+#### Unsupervised learning
  - cluster 
    - Organize computing clusters
    - Social network analysis
@@ -22,16 +22,16 @@
     
     Svd 奇异值分解(解线性方程)
 
-####Reinforcement learning
+#### Reinforcement learning
 
-####recommender systems
+#### recommender systems
 
-###Matrices and vectors
-####definition
+### Matrices and vectors
+#### definition
 - $\mathbb{R}$ refers to the set of scalar real numbers.
 - $\mathbb{R^n}$ refers to the set of n-dimemsional vectors of real numbers.
 
-###Matlab
+### Matlab
 1. 更改Octave命令提示
 
     ```

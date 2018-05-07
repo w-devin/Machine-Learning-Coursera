@@ -7,12 +7,12 @@
 - h(x) = hypothesis function
 - $h_\theta(x) = \theta_0 + \theta_1x$  *shorthand:h(x)*
 
-####Cost Function 
+#### Cost Function 
 - squared cost function
 $$J(\theta_0, \theta_1) = \dfrac {1}{2m} \displaystyle \sum _{i=1}^m \left ( \hat{y}_{i}- y_{i} \right)^2 = \dfrac {1}{2m} \displaystyle \sum _{i=1}^m \left (h_\theta (x_{i}) - y_{i} \right)^2$$
 - Goal: $minimize_{\theta_0, \theta_1}J(\theta_0, \theta_1)$
 
-####Gradient descent
+#### Gradient descent
 >repeat until convergence {
 >>    $\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta_0, \theta_1)$  (for j = 0 and j = 0)
 >}
