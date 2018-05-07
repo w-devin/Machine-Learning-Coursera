@@ -1,6 +1,8 @@
-There are codes I wrote when I learning Maching Learning at [coursera.org](https://www.coursera.org/learn/machine-learning/home/welcome)
+There are fils I used when I learning Maching Learning at [coursera.org](https://www.coursera.org/learn/machine-learning/home/welcome)
 
-And I will put my notes wrote with markdown
+Notes are written using the markdown syntax
+
+Codes are matlab and I will add python version later.
 
 ### Files
 #### Tutorial
