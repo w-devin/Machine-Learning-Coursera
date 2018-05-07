@@ -7,7 +7,7 @@ And I will put my notes wrote with markdown
  - [Lecture5.pdf](/Lecture/Lecture5.pdf)
  - [00 Introduction.md](/Notes/00%20Introduction.md)
 
-1. Linear regression
+#### Linear regression
  - [Exercise](/Codes/machine-learning-ex1/)
  - [Lecture1.pdf](/Lecture/Lecture1.pdf)
  - [Lecture2.pdf](/Lecture/Lecture2.pdf)
