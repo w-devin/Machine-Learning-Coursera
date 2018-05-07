@@ -2,8 +2,6 @@ There are codes I wrote when I learning Maching Learning at [coursera.org](https
 
 And I will put my notes wrote with markdown
 
-[TOC]
-
 ### Files
 #### Tutorial
  - [Lecture5.pdf](/Lecture/Lecture5.pdf)
