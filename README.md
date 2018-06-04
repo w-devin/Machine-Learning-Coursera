@@ -27,3 +27,10 @@ Codes are matlab and I will add python version later.
  - [Lecture7.pdf](/Lecture/Lecture7.pdf)
  - [04 Regularization](/Notes/04%20Regularization.md)
 
+#### PB Neural Networks
+ - [Exercise-3](/Codes/machine-learning-ex3)
+ - [Exercise-4](/Codes/machine-learning-ex4)
+ - [Lecture8.pdf](/Lecture/Lecture8.pdf)
+ - [Lecture9.pdf](/Lecture/Lecture9.pdf)
+ - [05 Neural Networks](/Notes/05%20Neural%20Networks.md)
+

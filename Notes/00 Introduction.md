@@ -124,3 +124,8 @@
 |save xxx -ascii|以文本形式存储|
 |addpath(‘’)|增加路径|
 |search path()|搜索路径|
+
+
+
+### Experience
+1. 惩罚项不惩罚额外项！！！
