@@ -26,8 +26,6 @@ J(\Theta) = - \frac{1}{m} \sum_{i=1}^m \sum_{k=1}^K \left[y^{(i)}_k \log ((h_\Th
 
 $$\frac{\lambda}{2m}\sum_{l=1}^{L-1} \sum_{i=1}^{s_l} \sum_{j=1}^{s_{l+1}} ( \Theta_{j,i}^{(l)})^2
 $$
-![](media/15266921572012.jpg)
-![](p7skriigy.bkt.clouddn.com/15266921572012.jpg)
 
 ##### Back-propagation Algorithm
 ###### Algorithm
